@@ -5,8 +5,8 @@
 
 **INDICE**
 
-|[**MAPPE**]()|[**COUNTRY CODE**]()|[**GPS Coordinate**]()|[**QGIS**]()|[**STRUMENTI**]()|[**GEO MOBILE**]()|
-| :--- | :--- | :--- | :--- | :--- | :--- |
+|[**MAPPE**](https://github.com/CScorza/GEOINTInvestigation#mappe)|[**COUNTRY CODE**](https://github.com/CScorza/GEOINTInvestigation#country-code)|[**GPS Coordinate**](https://github.com/CScorza/GEOINTInvestigation#coordinate-gps)|[**QGIS**](https://github.com/CScorza/GEOINTInvestigation#gis)|[**STRUMENTI MAPS**](https://github.com/CScorza/GEOINTInvestigation#strumenti-maps)|[**GEO MOBILE**](https://github.com/CScorza/GEOINTInvestigation#geo-mobile)|[**WEB CAM**](https://github.com/CScorza/GEOINTInvestigation#web-cam-nel-mondo)|
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 
 **Strumenti Utili**
 
@@ -55,6 +55,9 @@
 
 
 # GIS 
+**Geographic Information System**
+![GIS](https://user-images.githubusercontent.com/98583912/202307844-37ce544e-196b-4efa-b484-430354ea63ed.gif)
+
 ```
 Il Geographic Information System (GIS)
 (anche detto sistema informativo geografico o anche sistema informativo territoriale) 
@@ -63,10 +66,10 @@ l'acquisizione, registrazione, analisi, visualizzazione, restituzione, condivisi
 presentazione di informazioni derivanti da dati geografici
 Wikipedia
 ```
-**Quantum  Geographic Information System**
-|[**GitHub - QGIS**](https://github.com/qgis/QGIS)|[**wikipedia - QGIS**](https://en.wikipedia.org/wiki/QGIS)|
-| :--- | :--- |
-|[**QGIS**](https://qgis.org/en/site/forusers/download.html)|[**ArcGID**](https://www.arcgis.com/index.html#)|
+**Strumenti**
+|**Teoria**|[**wikipedia - QGIS**](https://en.wikipedia.org/wiki/QGIS)|[**GitHub - QGIS**](https://github.com/qgis/QGIS)|||
+| :--- | :--- | :--- | :--- | :--- |
+|**Software**|[**QGIS**](https://qgis.org/en/site/forusers/download.html)|[**ArcGID**](https://www.arcgis.com/index.html#)|[**GRASS GIS**](https://grass.osgeo.org/)|[**gvSIG**](http://www.gvsig.org/it/web/guest)|[**Orfeo ToolBox**](https://www.orfeo-toolbox.org/)|
 
 
 # COORDINATE GPS
