@@ -10,6 +10,9 @@
 
 # MAPPE
 
+![earth_i3jiri8r](https://user-images.githubusercontent.com/98583912/202248094-b5845076-fc6c-4276-860f-c8a0c70b6f5e.gif)
+
+
 |[**GOOGLE MAPS**](https://www.google.com/maps/)|[**Yandex Maps**](https://yandex.com/maps/)|[**BING MAPS**](https://www.bing.com/maps)|[**DUAL MAPS**](http://data.mashedworld.com/dualmaps/map.htm?lat=37.791504&lng=-122.390246&z=18&slat=37.791434&slng=-122.390303&sh=33.021&sp=0&sz=1&gm=0&panel=msbi&mi=1&be=0&pv=1&pc=1)|[**FLICKR - MAPS**](https://www.flickr.com/map/)|
 | :--- | :--- | :--- | :--- | :--- |
 |[**WEGO.HERE - MAPS**](https://wego.here.com/?x=ep&map=49.84958,9.95503,10,normal)|[**GOKML - MAPS**](http://gokml.net/maps)|[**National Geographic**](https://www.nationalgeographic.com/maps/)|[**MapQuest**](https://www.mapquest.com/)|[**The True Size**](https://www.thetruesize.com)|
