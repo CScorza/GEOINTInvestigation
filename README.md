@@ -37,7 +37,7 @@
 | :--- | :--- | :--- | :--- | :--- |
 |[**WEGO.HERE - Maps**](https://wego.here.com/?x=ep&map=49.84958,9.95503,10,normal)|[**GOKML - Maps**](http://gokml.net/maps)|[**National Geographic - Maps**](https://www.nationalgeographic.com/maps/)|[**MapQuest**](https://www.mapquest.com/)|[**The True Size**](https://www.thetruesize.com)|
 |[**University of Texas Libraries - Maps**](https://maps.lib.utexas.edu/maps/index.html)|[**Scribble - Maps**](https://www.scribblemaps.com/create#/)|[**OECD - Maps**](https://www.oecd.org/swac/maps/)|[**LABNOL - Maps**](https://www.labnol.org/maps/location/)|[**KAKAO - Maps**](https://map.kakao.com/)|
-|[**BAIDU - Maps**](https://map.baidu.com/@11590057.96,4489812.75,4z)|[**Search Descartes Labs**](https://search.descarteslabs.com/)||||
+|[**BAIDU - Maps**](https://map.baidu.com/@11590057.96,4489812.75,4z)|[**Search Descartes Labs**](https://search.descarteslabs.com/)|[**Ricerca rapida per geolocalizzazione**](https://cipher387.github.io/quickgeolocationsearch/)|||
 
 # STREET VIEW
 
@@ -48,7 +48,7 @@
 |[**Mappe Regione Emilia Romagna**](https://mappe.regione.emilia-romagna.it/)|**Il geoportale 3D Dell'Emilia Romagna**|
 | :--- | :--- |
 |[**GEOPORTALE NAZIONALE**](http://www.pcn.minambiente.it/mattm/ambiente-italia-3d/)|**Software - Ambiente Italia 3D**|
-|[**Palermohub open data sicilia**](https://palermohub.opendatasicilia.it/)|**Strumenti e Cartografie della Sicilia e della Città di Palermo|
+|[**Palermohub - OpenData Sicilia**](https://palermohub.opendatasicilia.it/)|**Strumenti e Cartografie della Sicilia e della Città di Palermo**|
 
 ![3D](https://user-images.githubusercontent.com/98583912/202252621-d0e565d2-cba0-467d-942a-a31ee9f8a293.gif)
 
@@ -124,6 +124,7 @@ Wikipedia
 # Geo Mobile
 ![Come falsificare posizione GPS su Android e iPhone](https://user-images.githubusercontent.com/98583912/202301912-0780aa61-cdc3-45ff-b4e6-1dff442ebbbb.jpg)
 
+**App Mappe e Sentieri**
 |**APP**|**Android**|**IOS**|
 | :--- | :--- | :--- |
 |[**AGPS TrakerOm**](https://agps-tracker.com/?lang=it)|[**APK**](https://play.google.com/store/apps/details?id=com.giobat.troviamoci&hl=it&gl=US)||
