@@ -23,7 +23,15 @@
 | :--- | :--- | :--- | :--- |
 |[**Google Earth Web**](https://earth.google.com/web/)|[**Google Earth Pro**](https://www.google.com/intl/it/earth/about/versions/#earth-pro)|[**Apk Google Earth**](https://play.google.com/store/apps/details?id=com.google.earth)|[**App Google Earth**](https://apps.apple.com/us/app/google-earth/id293622097)|
 
+![Immagine1](https://user-images.githubusercontent.com/98583912/204649410-2007dd90-9336-49f5-a477-ab69f70e5c3f.gif)
+
+|**WEB**|**Software**|**Android**|
+| :--- | :--- | :--- |
+|[**Worldwidetelescope.org**](https://worldwidetelescope.org/webclient/)|[**Software - Word Wide Telescope**](https://www.worldwidetelescope.org/download/)|[**Android**](https://worldwide-telescope.it.uptodown.com/windows)|
+
 ![Maps](https://user-images.githubusercontent.com/98583912/202305677-a58ec8eb-6f34-490d-98fe-630b94cb53a9.gif)
+
+**Mappe Online**
 
 |[**Google - Maps**](https://www.google.com/maps/)|[**Yandex - Maps**](https://yandex.com/maps/)|[**Bing - Maps**](https://www.bing.com/maps)|[**DUAL - Maps**](http://data.mashedworld.com/dualmaps/map.htm?lat=37.791504&lng=-122.390246&z=18&slat=37.791434&slng=-122.390303&sh=33.021&sp=0&sz=1&gm=0&panel=msbi&mi=1&be=0&pv=1&pc=1)|[**FLICKR - MAPS**](https://www.flickr.com/map/)|
 | :--- | :--- | :--- | :--- | :--- |
@@ -40,9 +48,9 @@
 |[**Mappe Regione Emilia Romagna**](https://mappe.regione.emilia-romagna.it/)|**Il geoportale 3D Dell'Emilia Romagna**|
 | :--- | :--- |
 |[**GEOPORTALE NAZIONALE**](http://www.pcn.minambiente.it/mattm/ambiente-italia-3d/)|**Software - Ambiente Italia 3D**|
+|[**Palermohub open data sicilia**](https://palermohub.opendatasicilia.it/)|**Strumenti e Cartografie della Sicilia e della Città di Palermo|
 
 ![3D](https://user-images.githubusercontent.com/98583912/202252621-d0e565d2-cba0-467d-942a-a31ee9f8a293.gif)
-
 
 # STRUMENTI MAPS
 
@@ -118,7 +126,14 @@ Wikipedia
 
 |**APP**|**Android**|**IOS**|
 | :--- | :--- | :--- |
-|**AGPS TrakerOm**|[**APK**](https://play.google.com/store/apps/details?id=com.giobat.troviamoci&hl=it&gl=US)||
-[**Monitoraggio GPS Trackometer**]||[**APP**](https://apps.apple.com/it/app/monitoraggio-gps-trackometer/id540159351)|
-[**SunCalc.org**]|[**APP**](https://play.google.com/store/apps/details?id=de.th.suncalcorg&hl=it&gl=US)|[**APP**](https://apps.apple.com/us/app/suncalc-net/id761295311)|
+|[**AGPS TrakerOm**](https://agps-tracker.com/?lang=it)|[**APK**](https://play.google.com/store/apps/details?id=com.giobat.troviamoci&hl=it&gl=US)||
+|**Monitoraggio GPS Trackometer**||[**APP**](https://apps.apple.com/it/app/monitoraggio-gps-trackometer/id540159351)|
+|[**Gaia GPS**](https://www.gaiagps.com/)|[**APK**](https://play.google.com/store/apps/details?id=com.trailbehind.android.gaiagps.pro&hl=it&gl=US)|[**App**](https://apps.apple.com/it/app/gaia-gps/id1201979492)|
+|[**Alltrails**](https://www.alltrails.com/it-it/)|[**APK**](https://play.google.com/store/apps/details?id=com.alltrails.alltrails&hl=it&gl=US)|[**App**](https://apps.apple.com/it/app/alltrails-trekking-e-bici/id405075943)|
+|[**Wikiloc**](https://it.wikiloc.com/)|[**APK**](https://play.google.com/store/apps/details?id=com.wikiloc.wikilocandroid&hl=it&gl=US)|[**App**](https://apps.apple.com/it/app/wikiloc-navigatore-gps-outdoor/id432102730)|
+
+|**Altre App**|||
+| :--- | :--- | :--- |
+|[**SunCalc.org**](https:/[/www.suncalc.ohttps://www.gaiagps.com/rg/#/40.1789,-3.5156,3/2022.11.29/22:32/1/3)|[**APP**](https://play.google.com/store/apps/details?id=de.th.suncalcorg&hl=it&gl=US)|[**APP**](https://apps.apple.com/us/app/suncalc-net/id761295311)|
 |**Fake GPS Location**|[**APP**](https://play.google.com/store/apps/details?id=com.lexa.fakegps&hl=it&gl=US)|[**APP**](https://apps.apple.com/it/app/fake-gps-location-tool/id1133848135)|
+
