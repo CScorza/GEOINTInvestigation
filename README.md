@@ -37,7 +37,7 @@
 | :--- | :--- | :--- | :--- | :--- |
 |[**WEGO.HERE - Maps**](https://wego.here.com/?x=ep&map=49.84958,9.95503,10,normal)|[**GOKML - Maps**](http://gokml.net/maps)|[**National Geographic - Maps**](https://www.nationalgeographic.com/maps/)|[**MapQuest**](https://www.mapquest.com/)|[**The True Size**](https://www.thetruesize.com)|
 |[**University of Texas Libraries - Maps**](https://maps.lib.utexas.edu/maps/index.html)|[**Scribble - Maps**](https://www.scribblemaps.com/create#/)|[**OECD - Maps**](https://www.oecd.org/swac/maps/)|[**LABNOL - Maps**](https://www.labnol.org/maps/location/)|[**KAKAO - Maps**](https://map.kakao.com/)|
-|[**BAIDU - Maps**](https://map.baidu.com/@11590057.96,4489812.75,4z)|[**Search Descartes Labs**](https://search.descarteslabs.com/)|[**Ricerca rapida per geolocalizzazione**](https://cipher387.github.io/quickgeolocationsearch/)|||
+|[**BAIDU - Maps**](https://map.baidu.com/@11590057.96,4489812.75,4z)|[**Search Descartes Labs**](https://search.descarteslabs.com/)|[**Ricerca rapida per geolocalizzazione**](https://cipher387.github.io/quickgeolocationsearch/)||
 
 # STREET VIEW
 
@@ -49,7 +49,8 @@
 | :--- | :--- |
 |[**GEOPORTALE NAZIONALE**](http://www.pcn.minambiente.it/mattm/ambiente-italia-3d/)|**Software - Ambiente Italia 3D**|
 |[**Palermohub - OpenData Sicilia**](https://palermohub.opendatasicilia.it/)|**Strumenti e Cartografie della Sicilia e della Città di Palermo**|
-
+|[**OLD Maps Online**](https://www.oldmapsonline.org/)|**Mappe Storiche**|
+|
 ![3D](https://user-images.githubusercontent.com/98583912/202252621-d0e565d2-cba0-467d-942a-a31ee9f8a293.gif)
 
 # STRUMENTI MAPS
@@ -60,7 +61,14 @@
 ||[**Map Switcher**](https://chrome.google.com/webstore/detail/map-switcher/fanpjcbgdinjeknjikpfnldfpnnpkelb)|**Estensioni Chrome - Converti coordinate e indicazioni**|
 |[**Mapillary**](https://www.mapillary.com/app)|||
 |[**Peakvisor**](https://peakvisor.com/it/news/mappa_3D.html)||**Mappa 3D delle Montagne**|
-
+|[**UK Grid Reference Finder**](https://gridreferencefinder.com/)||**Coordinate UK**|
+|[**SKYDB**](https://www.skydb.net/)||**SKYDB è un database mondiale di grattacieli ed edifici alti**|
+|[**Sky Scraper Page**](https://skyscraperpage.com/)||**Database mondiale di grattacieli**|
+|[**Free Map Tools**](https://www.freemaptools.com/)||**mappe per misurare , ricercare e sovrapporre elementi di marcatura sulle mappe per un'ampia gamma di utili applicazioni.**|
+|[**GeoNames**](https://www.geonames.org/)||**database geografico GeoNames**|
+|[**Open Aerial Map**](https://openaerialmap.org/)||**Mappe Aeree**|
+|[**MapChecking**](https://www.mapchecking.com/)||**Questo strumento ti aiuta a stimare e verificare il numero massimo di persone in piedi in una determinata area**|
+|[**F4Map**](https://demo.f4map.com/#camera.theta=0.9)||**Esplora Mappe del Mondo in 3D**|
 
 # GIS 
 **Geographic Information System**
@@ -79,6 +87,11 @@ Wikipedia
 | :--- | :--- | :--- | :--- | :--- |
 |**Software**|[**QGIS**](https://qgis.org/en/site/forusers/download.html)|[**ArcGID**](https://www.arcgis.com/index.html#)|[**GRASS GIS**](https://grass.osgeo.org/)|[**gvSIG**](http://www.gvsig.org/it/web/guest)|[**Orfeo ToolBox**](https://www.orfeo-toolbox.org/)|
 
+**Mappe GIS**
+
+|**WebGIS SITAR**|[**ArcheoSitarProject**](https://www.archeositarproject.it/piattaforma/webgis/)|**Consente agli utenti di visualizzare su mappa, interrogare ed acquisire i dati relativi a migliaia di indagini archeologiche condotte dalla Soprintendenza Speciale Archeologia Belle Arti e Paesaggio sul territorio del Comune di Roma.**|
+| :--- | :--- | :--- |
+|[**PeakFinder**](https://www.peakfinder.org/)|[**App IOS e Android**](https://www.peakfinder.org/it/mobile/)|**Panoramica a 360° delle vette mondiali**|
 
 # COORDINATE GPS
 
@@ -119,7 +132,7 @@ Wikipedia
 |[**worldcam**](https://worldcam.eu/)|**World Cam**|
 |[**Insecam**](http://www.insecam.org/)|**Live cameras**|
 |[**webcamtaxi**](https://www.webcamtaxi.com/en/)|**Webcam Taxi Live Virtual Travel**|
-
+|[**Pictimo**](https://www.pictimo.com/)|**WebCam delle Telecamere IP in live Streaming in tutto il mondo**|
 
 # Geo Mobile
 ![Come falsificare posizione GPS su Android e iPhone](https://user-images.githubusercontent.com/98583912/202301912-0780aa61-cdc3-45ff-b4e6-1dff442ebbbb.jpg)
