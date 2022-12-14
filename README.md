@@ -50,7 +50,7 @@
 |[**GEOPORTALE NAZIONALE**](http://www.pcn.minambiente.it/mattm/ambiente-italia-3d/)|**Software - Ambiente Italia 3D**|
 |[**Palermohub - OpenData Sicilia**](https://palermohub.opendatasicilia.it/)|**Strumenti e Cartografie della Sicilia e della Città di Palermo**|
 |[**OLD Maps Online**](https://www.oldmapsonline.org/)|**Mappe Storiche**|
-|
+|[**Comune di Bologna*](https://sitmappe.comune.bologna.it/Bologna3D/)|**Mappa di Bologna in 3D**|
 ![3D](https://user-images.githubusercontent.com/98583912/202252621-d0e565d2-cba0-467d-942a-a31ee9f8a293.gif)
 
 # STRUMENTI MAPS
