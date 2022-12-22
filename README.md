@@ -5,8 +5,8 @@
 
 **INDICE**
 
-|[**MAPPE**](https://github.com/CScorza/GEOINTInvestigation#mappe)|[**COUNTRY CODE**](https://github.com/CScorza/GEOINTInvestigation#country-code)|[**GPS Coordinate**](https://github.com/CScorza/GEOINTInvestigation#coordinate-gps)|[**QGIS**](https://github.com/CScorza/GEOINTInvestigation#gis)|[**STRUMENTI MAPS**](https://github.com/CScorza/GEOINTInvestigation#strumenti-maps)|[**GEO MOBILE**](https://github.com/CScorza/GEOINTInvestigation#geo-mobile)|[**WEB CAM**](https://github.com/CScorza/GEOINTInvestigation#web-cam-nel-mondo)|
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+|[**MAPPE**](https://github.com/CScorza/GEOINTInvestigation#mappe)|[**COUNTRY CODE**](https://github.com/CScorza/GEOINTInvestigation#country-code)|[**GPS Coordinate**](https://github.com/CScorza/GEOINTInvestigation#coordinate-gps)|[**QGIS**](https://github.com/CScorza/GEOINTInvestigation#gis)|[**STRUMENTI MAPS**](https://github.com/CScorza/GEOINTInvestigation#strumenti-maps)|[**GEO MOBILE**](https://github.com/CScorza/GEOINTInvestigation#geo-mobile)|[**WEB CAM**](https://github.com/CScorza/GEOINTInvestigation#web-cam-nel-mondo)|[**Geo Social**](https://github.com/CScorza/GEOINTInvestigation#geo-social)|
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 
 **Strumenti Utili**
 
@@ -39,7 +39,7 @@
 |[**University of Texas Libraries - Maps**](https://maps.lib.utexas.edu/maps/index.html)|[**Scribble - Maps**](https://www.scribblemaps.com/create#/)|[**OECD - Maps**](https://www.oecd.org/swac/maps/)|[**LABNOL - Maps**](https://www.labnol.org/maps/location/)|[**KAKAO - Maps**](https://map.kakao.com/)|
 |[**BAIDU - Maps**](https://map.baidu.com/@11590057.96,4489812.75,4z)|[**Search Descartes Labs**](https://search.descarteslabs.com/)|[**Ricerca rapida per geolocalizzazione**](https://cipher387.github.io/quickgeolocationsearch/)||
 
-# STREET VIEW
+# **STREET VIEW**
 
 |![street](https://user-images.githubusercontent.com/98583912/202252333-4ab41ed0-65c8-461f-b512-a4f4f42c070f.gif)|[**Instant Street View**](https://www.instantstreetview.com/)|[**Karta View - Maps**](https://kartaview.org/map/)|
 | :--- | :--- | :--- |
@@ -54,7 +54,7 @@
 
 ![3D](https://user-images.githubusercontent.com/98583912/202252621-d0e565d2-cba0-467d-942a-a31ee9f8a293.gif)
 
-# STRUMENTI MAPS
+# **STRUMENTI MAPS**
 
 |Software|Estensioni|Dettagli|
 | :--- | :--- | :--- |
@@ -71,7 +71,7 @@
 |[**MapChecking**](https://www.mapchecking.com/)||**Questo strumento ti aiuta a stimare e verificare il numero massimo di persone in piedi in una determinata area**|
 |[**F4Map**](https://demo.f4map.com/#camera.theta=0.9)||**Esplora Mappe del Mondo in 3D**|
 
-# GIS 
+# **GIS**
 **Geographic Information System**
 ![GIS](https://user-images.githubusercontent.com/98583912/202307844-37ce544e-196b-4efa-b484-430354ea63ed.gif)
 
@@ -94,7 +94,7 @@ Wikipedia
 | :--- | :--- | :--- |
 |[**PeakFinder**](https://www.peakfinder.org/)|[**App IOS e Android**](https://www.peakfinder.org/it/mobile/)|**Panoramica a 360° delle vette mondiali**|
 
-# COORDINATE GPS
+# **COORDINATE GPS**
 
 ![Immagine4](https://user-images.githubusercontent.com/98583912/202258894-1d599560-6769-4a47-b909-be6c153a607f.gif)
 
@@ -108,7 +108,7 @@ Wikipedia
 |[**GPS Koordinaten**](https://www.gpskoordinaten.de/)|**Coordinate GPS**|
 |[**Labs.tib.eu - Geoestimation**](https://labs.tib.eu/geoestimation/)|**Geolocation Estimation**|
 
-# Country Code
+# **Country Code**
 
 ![Code](https://user-images.githubusercontent.com/98583912/202259249-de930ba3-340c-4515-8df8-d62400d4c277.gif)
 
@@ -118,7 +118,7 @@ Wikipedia
 |[**GeoNames**](https://www.geonames.org/)|**Data Base Geografico**|
 [**Consilium Europa**](https://www.consilium.europa.eu/prado/en/prado-start-page.html)|**PRADO - Registro pubblico dei documenti di identità e di viaggio autentici online**|
 
-# WEB CAM nel Mondo
+# **WEB CAM nel Mondo**
 
 ![World Cam](https://user-images.githubusercontent.com/98583912/202259674-34a165d5-98af-44e7-aae0-4a108b15de49.gif)
 
@@ -136,7 +136,7 @@ Wikipedia
 |[**webcamtaxi**](https://www.webcamtaxi.com/en/)|**Webcam Taxi Live Virtual Travel**|
 |[**Pictimo**](https://www.pictimo.com/)|**WebCam delle Telecamere IP in live Streaming in tutto il mondo**|
 
-# Geo Mobile
+# **Geo Mobile**
 ![Come falsificare posizione GPS su Android e iPhone](https://user-images.githubusercontent.com/98583912/202301912-0780aa61-cdc3-45ff-b4e6-1dff442ebbbb.jpg)
 
 **App Mappe e Sentieri**
@@ -148,8 +148,16 @@ Wikipedia
 |[**Alltrails**](https://www.alltrails.com/it-it/)|[**APK**](https://play.google.com/store/apps/details?id=com.alltrails.alltrails&hl=it&gl=US)|[**App**](https://apps.apple.com/it/app/alltrails-trekking-e-bici/id405075943)|
 |[**Wikiloc**](https://it.wikiloc.com/)|[**APK**](https://play.google.com/store/apps/details?id=com.wikiloc.wikilocandroid&hl=it&gl=US)|[**App**](https://apps.apple.com/it/app/wikiloc-navigatore-gps-outdoor/id432102730)|
 
-|**Altre App**|||
-| :--- | :--- | :--- |
+
+**Altre App**
+
 |[**SunCalc.org**](https:/[/www.suncalc.ohttps://www.gaiagps.com/rg/#/40.1789,-3.5156,3/2022.11.29/22:32/1/3)|[**APP**](https://play.google.com/store/apps/details?id=de.th.suncalcorg&hl=it&gl=US)|[**APP**](https://apps.apple.com/us/app/suncalc-net/id761295311)|
+| :--- | :--- | :--- |
 |**Fake GPS Location**|[**APP**](https://play.google.com/store/apps/details?id=com.lexa.fakegps&hl=it&gl=US)|[**APP**](https://apps.apple.com/it/app/fake-gps-location-tool/id1133848135)|
 
+# **Geo Social**
+
+![Geo Social](https://user-images.githubusercontent.com/98583912/209225685-a1f74844-86b6-498e-a589-395998a52527.gif)
+
+|**Telegram**|[**GitHub - Geogramint**](https://github.com/Alb-310/Geogramint)|[**GitHub - Telegram Nearby Map**](https://github.com/tejado/telegram-nearby-map)|
+| :---: | :---: | :---: |
