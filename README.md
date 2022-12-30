@@ -162,6 +162,12 @@ Wikipedia
 |[**Alltrails**](https://www.alltrails.com/it-it/)|[**APK**](https://play.google.com/store/apps/details?id=com.alltrails.alltrails&hl=it&gl=US)|[**App**](https://apps.apple.com/it/app/alltrails-trekking-e-bici/id405075943)|
 |[**Wikiloc**](https://it.wikiloc.com/)|[**APK**](https://play.google.com/store/apps/details?id=com.wikiloc.wikilocandroid&hl=it&gl=US)|[**App**](https://apps.apple.com/it/app/wikiloc-navigatore-gps-outdoor/id432102730)|
 
+**Ricerca Posizione Geografica delle Immagini**
+
+![Immagine4](https://user-images.githubusercontent.com/98583912/210085990-5230503d-1151-47ba-b1e6-475a83cf955e.gif)
+
+|[**GeoReferencer**](https://www.georeferencer.com/)|
+| :--- |
 
 **Altre App**
 
