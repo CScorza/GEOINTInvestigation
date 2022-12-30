@@ -5,7 +5,7 @@
 
 **INDICE**
 
-|[**MAPPE**](https://github.com/CScorza/GEOINTInvestigation#mappe)|[**COUNTRY CODE**](https://github.com/CScorza/GEOINTInvestigation#country-code)|[**GPS Coordinate**](https://github.com/CScorza/GEOINTInvestigation#coordinate-gps)|[**QGIS**](https://github.com/CScorza/GEOINTInvestigation#gis)|[**STRUMENTI MAPS**](https://github.com/CScorza/GEOINTInvestigation#strumenti-maps)|[**GEO MOBILE**](https://github.com/CScorza/GEOINTInvestigation#geo-mobile)|[**WEB CAM**](https://github.com/CScorza/GEOINTInvestigation#web-cam-nel-mondo)|[**Geo Social**](https://github.com/CScorza/GEOINTInvestigation#geo-social)|
+|[**MAPPE**](https://github.com/CScorza/GEOINTInvestigation#mappe)|[**COUNTRY CODE**](https://github.com/CScorza/GEOINTInvestigation#country-code)|[**GPS - Satelliti**](https://github.com/CScorza/GEOINTInvestigation#coordinate-gps)|[**QGIS**](https://github.com/CScorza/GEOINTInvestigation#gis)|[**STRUMENTI MAPS**](https://github.com/CScorza/GEOINTInvestigation#strumenti-maps)|[**GEO MOBILE**](https://github.com/CScorza/GEOINTInvestigation#geo-mobile)|[**WEB CAM**](https://github.com/CScorza/GEOINTInvestigation#web-cam-nel-mondo)|[**Geo Social**](https://github.com/CScorza/GEOINTInvestigation#geo-social)|
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 
 **Strumenti Utili**
@@ -107,6 +107,20 @@ Wikipedia
 |[**Gps Visualizer**](https://www.gpsvisualizer.com/geocode)|**Geo Code**|
 |[**GPS Koordinaten**](https://www.gpskoordinaten.de/)|**Coordinate GPS**|
 |[**Labs.tib.eu - Geoestimation**](https://labs.tib.eu/geoestimation/)|**Geolocation Estimation**|
+
+**Orbita Satelliti**
+
+![260px-Costellazione_satelliti_GPS](https://user-images.githubusercontent.com/98583912/210077113-dba7dcf7-6044-4e98-a69c-a4ddde5b365b.jpg)
+
+|[**SatelliteXplorer**](https://geoxc-apps.bd.esri.com/space/satellite-explorer/?adusf=facebook&aduc=esri&adut=d3f50204-8ff0-4f80-a06f-91ed3bf823e9#)|
+| :--- |
+
+**METEO SAT**
+
+![AggravatingDependableBaldeagle-max-1mb](https://user-images.githubusercontent.com/98583912/210081446-67752fcd-b8a5-43f7-a3b5-610b42af7ae7.gif)
+
+|[**Zoom Earth**](https://zoom.earth/#view=48.3,40.1,4z/map=live)|[**Windy**](https://www.windy.com/?38.130,13.329,5)|[**MeteoAM**](http://www.meteoam.it/)|[**GMDSS**](http://weather.gmdss.org/index.html)|
+| :--- | :--- | :--- | :--- |
 
 # **Country Code**
 
