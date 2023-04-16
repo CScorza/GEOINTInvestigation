@@ -1,5 +1,6 @@
 ![indice](https://user-images.githubusercontent.com/98583912/210836059-f5a37bee-a8cc-45d6-b6f9-74bf5fdbb644.gif)
 
+[![Telegram](https://img.shields.io/badge/Telegram-CScorza%20%22Indagini%20Telematiche%22-informational)](https://t.me/+kP_uYlc6-345Njc8)
 
 ![GEOINT](https://user-images.githubusercontent.com/98583912/202252243-df50eff1-5ae8-4868-a634-c72818601b78.gif)
 
