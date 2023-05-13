@@ -58,20 +58,51 @@
 
 # **STRUMENTI MAPS**
 
-|Software|Estensioni|Dettagli|
+|**Software**|**Estensioni**|**Dettagli**|
 | :--- | :--- | :--- |
+|**Strumenti**|||
 |[**kepler**](https://kepler.gl/#/)|||
 ||[**Map Switcher**](https://chrome.google.com/webstore/detail/map-switcher/fanpjcbgdinjeknjikpfnldfpnnpkelb)|**Estensioni Chrome - Converti coordinate e indicazioni**|
-|[**Mapillary**](https://www.mapillary.com/app)|||
-|[**Peakvisor**](https://peakvisor.com/it/news/mappa_3D.html)||**Mappa 3D delle Montagne**|
 |[**UK Grid Reference Finder**](https://gridreferencefinder.com/)||**Coordinate UK**|
 |[**SKYDB**](https://www.skydb.net/)||**SKYDB è un database mondiale di grattacieli ed edifici alti**|
 |[**Sky Scraper Page**](https://skyscraperpage.com/)||**Database mondiale di grattacieli**|
-|[**Free Map Tools**](https://www.freemaptools.com/)||**mappe per misurare , ricercare e sovrapporre elementi di marcatura sulle mappe per un'ampia gamma di utili applicazioni.**|
 |[**GeoNames**](https://www.geonames.org/)||**database geografico GeoNames**|
-|[**Open Aerial Map**](https://openaerialmap.org/)||**Mappe Aeree**|
 |[**MapChecking**](https://www.mapchecking.com/)||**Questo strumento ti aiuta a stimare e verificare il numero massimo di persone in piedi in una determinata area**|
-|[**F4Map**](https://demo.f4map.com/#camera.theta=0.9)||**Esplora Mappe del Mondo in 3D**|
+|[**kepler**](https://kepler.gl/)||**Informazioni dati del Terreno**|
+
+**Altre Mappe**
+
+|[**Free Map Tools**](https://www.freemaptools.com/)|**mappe per misurare , ricercare e sovrapporre elementi di marcatura sulle mappe per un'ampia gamma di utili applicazioni.**|
+| :--- | :--- | 
+|[**Open Aerial Map**](https://openaerialmap.org/)|**Mappe Aeree**|
+|[**F4Map**](https://demo.f4map.com/#camera.theta=0.9)|**Esplora Mappe del Mondo in 3D**|
+|[**Mapillary**](https://www.mapillary.com/app)|**STREET VIEW**|
+|[**Peakvisor**](https://peakvisor.com/it/news/mappa_3D.html)|**Mappa 3D delle Montagne**|
+|[**SondeHub**](https://sondehub.org)|**Mappe delle Sonde Aeree - Radiosonde**|
+|[**ResourceWatch**](https://resourcewatch.org/)|**Fornisce centinaia di dataset sullo stato delle risorse e degli abitanti del pianeta**|
+|[**OpenInfraMap**](https://openinframap.org/)|**La mappa contiene linee elettriche, telecomunicazioni, energia solare, petrolio, gas, infrastrutture idriche in tutto il mondo**|
+|[**OpenInfraMap**](https://openinframap.org/)|**Carta nautica, informazioni su fari, boe e altri segnali di navigazione, officine, negozi, ristoranti**|
+|[**Global Detention Project**](https://www.globaldetentionproject.org/)|**Mappa dei centri di detenzione nel mondo**|
+
+**Mappe Protezione Civile**
+![Mappa Protezione civile](https://mappe.protezionecivile.gov.it/static/b226df1cc1ceca4ed9a287e8e04e0ced/42364/rischi-primo-piano.jpg)
+
+|[**Protezione Civile Italiana - Mappe Rischi**](https://mappe.protezionecivile.gov.it/it/mappe-rischi/)|**Mappe relative ai rischi meteo-idro e vulcanico**|
+| :--- | :--- |
+|[**Protezione Civile Sicilia - WEBGIS**](http://www.protezionecivilesicilia.it:8080/cfd_sicilia/)|**WebGIS del CFD-Idro**|
+|[**Protezione Civile Sicilia - AEGIS**](https://www.protezionecivilesicilia.it:8443/aegis/map/map2d)|**AEGIS - Mappa Sicilia Bollettini Meteo **|
+|[**Firms**](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs;@0.0,0.0,3z)|**Mappa degli incendi, vicina al tempo reale (ritardo ~ 3 ore)**|
+
+**METEO SAT**
+
+![AggravatingDependableBaldeagle-max-1mb](https://user-images.githubusercontent.com/98583912/210081446-67752fcd-b8a5-43f7-a3b5-610b42af7ae7.gif)
+
+|[**Protezione Civile - Radar**](https://radar.protezionecivile.it/#/pages/dashboard?update=96f10891-88c5-78fb-ab78-b7efc191b288&zoom=6)|**Meteo Radar**|
+|[**Zoom Earth**](https://zoom.earth/#view=48.3,40.1,4z/map=live)||
+|[**Windy**](https://www.windy.com/?38.130,13.329,5)||
+|[**MeteoAM**](http://www.meteoam.it/)|**Meteo Aeronatica Miltiare**|
+|[**GMDSS**](http://weather.gmdss.org/index.html)||
+| :--- | :--- | 
 
 # **GIS**
 **Geographic Information System**
@@ -86,6 +117,7 @@ presentazione di informazioni derivanti da dati geografici
 Wikipedia
 ```
 **Strumenti**
+
 |**Teoria**|[**wikipedia - QGIS**](https://en.wikipedia.org/wiki/QGIS)|[**GitHub - QGIS**](https://github.com/qgis/QGIS)|||
 | :--- | :--- | :--- | :--- | :--- |
 |**Software**|[**QGIS**](https://qgis.org/en/site/forusers/download.html)|[**ArcGID**](https://www.arcgis.com/index.html#)|[**GRASS GIS**](https://grass.osgeo.org/)|[**gvSIG**](http://www.gvsig.org/it/web/guest)|[**Orfeo ToolBox**](https://www.orfeo-toolbox.org/)|
@@ -99,7 +131,6 @@ Wikipedia
 # **COORDINATE GPS**
 
 ![Immagine4](https://user-images.githubusercontent.com/98583912/202258894-1d599560-6769-4a47-b909-be6c153a607f.gif)
-
 
 |[**Coordinate GPS**](https://www.coordinate-gps.it/)|**Coordinate Geografiche**|
 | :--- | :--- |
@@ -116,13 +147,6 @@ Wikipedia
 
 |[**SatelliteXplorer**](https://geoxc-apps.bd.esri.com/space/satellite-explorer/?adusf=facebook&aduc=esri&adut=d3f50204-8ff0-4f80-a06f-91ed3bf823e9#)|
 | :--- |
-
-**METEO SAT**
-
-![AggravatingDependableBaldeagle-max-1mb](https://user-images.githubusercontent.com/98583912/210081446-67752fcd-b8a5-43f7-a3b5-610b42af7ae7.gif)
-
-|[**Zoom Earth**](https://zoom.earth/#view=48.3,40.1,4z/map=live)|[**Windy**](https://www.windy.com/?38.130,13.329,5)|[**MeteoAM**](http://www.meteoam.it/)|[**GMDSS**](http://weather.gmdss.org/index.html)|
-| :--- | :--- | :--- | :--- |
 
 # **Country Code**
 
@@ -151,6 +175,7 @@ Wikipedia
 |[**Insecam**](http://www.insecam.org/)|**Live cameras**|
 |[**webcamtaxi**](https://www.webcamtaxi.com/en/)|**Webcam Taxi Live Virtual Travel**|
 |[**Pictimo**](https://www.pictimo.com/)|**WebCam delle Telecamere IP in live Streaming in tutto il mondo**|
+|[**AirportWebCams.net**](https://airportwebcams.net/)|**WebCams - Aeroporto**|
 
 # **Geo Mobile**
 ![Come falsificare posizione GPS su Android e iPhone](https://user-images.githubusercontent.com/98583912/202301912-0780aa61-cdc3-45ff-b4e6-1dff442ebbbb.jpg)
