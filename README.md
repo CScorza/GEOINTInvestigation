@@ -83,7 +83,7 @@
 |[**OpenInfraMap**](https://openinframap.org/)|**La mappa contiene linee elettriche, telecomunicazioni, energia solare, petrolio, gas, infrastrutture idriche in tutto il mondo**|
 |[**OpenInfraMap**](https://openinframap.org/)|**Carta nautica, informazioni su fari, boe e altri segnali di navigazione, officine, negozi, ristoranti**|
 |[**Global Detention Project**](https://www.globaldetentionproject.org/)|**Mappa dei centri di detenzione nel mondo**|
-
+|[**FELT**](http://felt.com)|**Strumento free per la creazione di visualizzazioni basate su mappe**|
 **Mappe Protezione Civile**
 ![Mappa Protezione civile](https://mappe.protezionecivile.gov.it/static/b226df1cc1ceca4ed9a287e8e04e0ced/42364/rischi-primo-piano.jpg)
 
