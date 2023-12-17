@@ -159,24 +159,6 @@ Wikipedia
 |[**GeoNames**](https://www.geonames.org/)|**Data Base Geografico**|
 [**Consilium Europa**](https://www.consilium.europa.eu/prado/en/prado-start-page.html)|**PRADO - Registro pubblico dei documenti di identità e di viaggio autentici online**|
 
-# **WEB CAM nel Mondo**
-
-![World Cam](https://user-images.githubusercontent.com/98583912/202259674-34a165d5-98af-44e7-aae0-4a108b15de49.gif)
-
-|[**AirportWebcams**](https://airportwebcams.net/)|**LIVE Airport Webcams**|
-| :--- | :--- |
-|[**Camvista**](http://camvista.com/)|**Live Streaming IP Camera Management Specialists**|
-|[**EarthCam**](https://www.earthcam.com/)|**Cam nel Mondo**|
-|[**Kroooz-Cams**](https://www.kroooz-cams.com/)|**live cam dal ponte di una nave e dal porto**|
-|[**wWndy**](https://www.windy.com/it/-Webcam/webcams?38.152,13.315,5)|**webcams**|
-|[**Webcam-Network**](http://www.the-webcam-network.com/)|**Webcam Network nel Mondo**|
-|[**World Webcams**](https://world-webcams.nsspot.net/?m=Webcam_map)|**World Webcams, Camera Search**|
-|[**Opentopia**](http://www.opentopia.com/)|**Free Live WebCams**|
-|[**worldcam**](https://worldcam.eu/)|**World Cam**|
-|[**Insecam**](http://www.insecam.org/)|**Live cameras**|
-|[**webcamtaxi**](https://www.webcamtaxi.com/en/)|**Webcam Taxi Live Virtual Travel**|
-|[**Pictimo**](https://www.pictimo.com/)|**WebCam delle Telecamere IP in live Streaming in tutto il mondo**|
-|[**AirportWebCams.net**](https://airportwebcams.net/)|**WebCams - Aeroporto**|
 
 # **Geo Mobile**
 ![Come falsificare posizione GPS su Android e iPhone](https://user-images.githubusercontent.com/98583912/202301912-0780aa61-cdc3-45ff-b4e6-1dff442ebbbb.jpg)
