@@ -73,11 +73,11 @@
 
 **Altre Mappe**
 
-|[**Free Map Tools**](https://www.freemaptools.com/)|**mappe per misurare , ricercare e sovrapporre elementi di marcatura sulle mappe per un'ampia gamma di utili applicazioni.**|
+|[**Free Map Tools**](https://www.freemaptools.com/)|**Misurazione, ricerca e sovrapposizione di elementi di marcatura sulle mappe per un'ampia gamma di utili applicazioni.**|
 | :--- | :--- | 
 |[**Open Aerial Map**](https://openaerialmap.org/)|**Mappe Aeree**|
 |[**F4Map**](https://demo.f4map.com/#camera.theta=0.9)|**Esplora Mappe del Mondo in 3D**|
-|[**Mapillary**](https://www.mapillary.com/app)|**STREET VIEW**|
+|[**Mapillary**](https://www.mapillary.com/app)|**Street VIEW**|
 |[**Peakvisor**](https://peakvisor.com/it/news/mappa_3D.html)|**Mappa 3D delle Montagne**|
 |[**SondeHub**](https://sondehub.org)|**Mappe delle Sonde Aeree - Radiosonde**|
 |[**ResourceWatch**](https://resourcewatch.org/)|**Fornisce centinaia di dataset sullo stato delle risorse e degli abitanti del pianeta**|
@@ -85,8 +85,11 @@
 |[**OpenInfraMap**](https://openinframap.org/)|**Carta nautica, informazioni su fari, boe e altri segnali di navigazione, officine, negozi, ristoranti**|
 |[**Global Detention Project**](https://www.globaldetentionproject.org/)|**Mappa dei centri di detenzione nel mondo**|
 |[**FELT**](http://felt.com)|**Strumento free per la creazione di visualizzazioni basate su mappe**|
+
+
 **Mappe Protezione Civile**
-![Mappa Protezione civile](https://mappe.protezionecivile.gov.it/static/b226df1cc1ceca4ed9a287e8e04e0ced/42364/rischi-primo-piano.jpg)
+
+![monitoraggio-img-6240](https://github.com/CScorza/GEOINTInvestigation/assets/98583912/c78cc5c2-6bc8-4e05-ad8d-ccffc096d116)
 
 |[**Protezione Civile Italiana - Mappe Rischi**](https://mappe.protezionecivile.gov.it/it/mappe-rischi/)|**Mappe relative ai rischi meteo-idro e vulcanico**|
 | :--- | :--- |
@@ -104,7 +107,7 @@
 |[**Windy**](https://www.windy.com/?38.130,13.329,5)||
 |[**MeteoAM**](http://www.meteoam.it/)|**Meteo Aeronatica Miltiare**|
 |[**GMDSS**](http://weather.gmdss.org/index.html)||
-| :--- | :--- | 
+
 
 # **GIS**
 **Geographic Information System**
