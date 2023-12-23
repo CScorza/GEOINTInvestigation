@@ -69,6 +69,7 @@
 |[**GeoNames**](https://www.geonames.org/)||**database geografico GeoNames**|
 |[**MapChecking**](https://www.mapchecking.com/)||**Questo strumento ti aiuta a stimare e verificare il numero massimo di persone in piedi in una determinata area**|
 |[**kepler**](https://kepler.gl/)||**Informazioni dati del Terreno**|
+|[**OpeninfraMap**](https://openinframap.org/)|**Mappa sulle Infrastrutture**|
 
 **Altre Mappe**
 
