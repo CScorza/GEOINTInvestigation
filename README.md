@@ -180,8 +180,9 @@ Wikipedia
 
 ![Immagine4](https://user-images.githubusercontent.com/98583912/210085990-5230503d-1151-47ba-b1e6-475a83cf955e.gif)
 
-|[**GeoReferencer**](https://www.georeferencer.com/)|
-| :--- |
+|[**GeoReferencer**](https://www.georeferencer.com/)||
+| :--- | :--- |
+|[**GeoSpy**](https://geospy.web.app/)|**Triva informazioni nelle immagini**|
 
 **Altre App**
 
