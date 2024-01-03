@@ -183,6 +183,7 @@ Wikipedia
 |[**GeoReferencer**](https://www.georeferencer.com/)||
 | :--- | :--- |
 |[**GeoSpy**](https://geospy.web.app/)|**Trova informazioni nelle immagini**|
+|[**PiCarta**](https://picarta.ai/)|
 
 **Altre App**
 
