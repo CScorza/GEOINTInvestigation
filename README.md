@@ -189,6 +189,7 @@ Wikipedia
 | :--- | :--- |
 |[**GeoSpy**](https://geospy.web.app/)|**Trova informazioni nelle immagini**|
 |[**PiCarta**](https://picarta.ai/)|
+|[**GitHub - Lingolens**](https://github.com/OSINT-mindset/lingolens)|
 
 **Altre App**
 
