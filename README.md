@@ -71,11 +71,13 @@
 |[**kepler**](https://kepler.gl/)||**Informazioni dati del Terreno**|
 |[**OpeninfraMap**](https://openinframap.org/)|**Mappa sulle Infrastrutture**|
 
-**Altre Mappe**
+**Mappe Catastali**
 
 ![layout_set_logo](https://github.com/user-attachments/assets/166246b6-5505-409f-a35f-8faf0cd92b12)
 | :--- |
 |[Mappe Catastali](https://geoportale.cartografia.agenziaentrate.gov.it/age-inspire/srv/ita/catalog.search#/home?pg=)|
+
+**Altre Mappe**
 
 |[**Free Map Tools**](https://www.freemaptools.com/)|**Misurazione, ricerca e sovrapposizione di elementi di marcatura sulle mappe per un'ampia gamma di utili applicazioni.**|
 | :--- | :--- | 
